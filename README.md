@@ -18,7 +18,7 @@ MyoTrack is a wearable IoT-based rehabilitation monitoring system designed to su
 MyoTrack addresses this limitation by using wearable inertial sensors to capture real-time limb motion data. The system provides objective insights into movement quality, symmetry, and activity trends through cloud-based dashboards, enabling clinicians to monitor recovery remotely and make data-driven decisions.
 
 ## Demo / Examples
-
+### Image
 <p align="center">
   <img src="/myotrack-device-setup.jpeg" width="800"><br/>
   <i>Figure 1: MyoTrack device setup with MYOSA Mini IoT board</i>
