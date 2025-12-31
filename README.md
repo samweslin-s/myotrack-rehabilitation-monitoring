@@ -1,5 +1,5 @@
 ---
-publishDate: 2025-12-20
+publishDate: 2025-12-31
 title: "MyoTrack: Real-Time Motion Monitoring for Hemiparesis Recovery"
 excerpt: "A wearable IoT-based system using inertial sensing and real-time dashboards to support objective rehabilitation monitoring."
 image: cover-image.jpg
